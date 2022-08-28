@@ -1,0 +1,34 @@
+- What do I want from this negotiation? List short-term and long-term goals and dreams related to the negotiation.
+- What are my strengths—values, skills, and assets—in this negotiation?
+- What are my weaknesses and vulnerabilities in this negotiation?
+- Why is the other party negotiating with me? What do I have that they need?
+- What lessons can I apply from past negotiations to improve my performance?
+- Where and when should the negotiation take place?
+- How long should talks last? What deadlines are we facing?
+- What are my interests in the upcoming negotiation? How do they rank in importance?
+- What is my best alternative to a negotiated agreement, or BATNA? That is, what option would I turn to if I’m not satisfied with the deal we negotiate or if we reach an impasse? How can I strengthen my BATNA?
+- What is my reservation point—my indifference point between a deal and no deal?
+- What is my aspiration point in the negotiation—the ambitious, but not outrageous, goal that I’d like to reach?
+- What are the other side’s interests? How important might each issue be to them?
+- What do I think their reservation point and BATNA may be? How can I find out more?
+- What does their BATNA mean in terms of their willingness to do a deal with me? Who has more power to walk away?
+- Is there a zone of possible agreement (ZOPA) between my reservation point and the other side’s? If there clearly is no room for bargaining, then there’s no reason to negotiate—but don’t give up until you’re sure. You may be able to add more issues to the discussion.
+- What is my relationship history with the other party? How might our past relationship affect current talks?
+- Are there cultural differences that we should prepare for?
+- To what degree will we be negotiating electronically? Are we prepared for the pros and cons of negotiating via email, teleconference, etc.?
+- In what order should I approach various parties on the other side?
+- What is the hierarchy within the other side’s team? What are the patterns of influence and potential tensions? How might these internal dynamics affect talks?
+- What potential ethical pitfalls should we keep in mind during the negotiation?
+- Who are my competitors for this deal? How do our relative advantages and disadvantages compare?
+- What objective benchmarks, criteria, and precedents will support my preferred position?
+- Who should be on my negotiating team? Who should be our spokesperson? What specific responsibilities should each team member have?
+- Do we need to involve any third parties (agents, lawyers, mediators, interpreters)?
+- What authority do I have (or does our team have) to make firm commitments?
+- Am I ready to engage in interest-based bargaining? Be prepared to try to create value by trading on differences in resources, preferences, forecasts, risk tolerance, and deadlines.
+- If we disagree about how the future plays out, can we explore a contingency contract—that is, stipulate what will happen if each side’s prediction comes true?
+- What parties not yet involved in the negotiation might also value an agreement?
+- Have I practiced communicating my message to the other side? How are they likely to respond?
+- Does the agenda make room for simultaneous discussion of multiple issues?
+- Is an agreement likely to create net value for society? How can we reduce potential harm to outside parties?
+
+> source: https://www.pon.harvard.edu/daily/negotiation-skills-daily/negotiation-preparation-checklist/
