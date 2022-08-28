@@ -1,3 +1,5 @@
+# Negotiation checklist
+
 - What do I want from this negotiation? List short-term and long-term goals and dreams related to the negotiation.
 - What are my strengths—values, skills, and assets—in this negotiation?
 - What are my weaknesses and vulnerabilities in this negotiation?
